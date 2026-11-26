@@ -93,7 +93,7 @@ case "$FAMILY" in
 esac
 
 # --- BAIXAR COM CURL, DAR CHMOD E EXECUTAR ---
-SCRIPT_URL="https://exemplo.com/seu-script.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/corocotoco22-cmyk/GRMG/refs/heads/main/grub-manager.sh"
 TARGET_SCRIPT="$HOME/seu-script.sh"
 
 echo "Baixando script com curl..."
