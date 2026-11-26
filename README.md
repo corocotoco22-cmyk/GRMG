@@ -6,6 +6,12 @@
 Grub Manager PT-BR
 
 # Instalação
+## Redar da web
 ```bash
 bash <(curl -fsSL "https://raw.githubusercontent.com/corocotoco22-cmyk/GRMG/refs/heads/main/install.sh")
+```
+## Local
+```bash
+curl -lsSL -O "https://raw.githubusercontent.com/corocotoco22-cmyk/GRMG/refs/heads/main/install.sh" # isso não evita acessar a web para baixar
+bash ./install.sh # isso não evita acessar a web para baixar
 ```
