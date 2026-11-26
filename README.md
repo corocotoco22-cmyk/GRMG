@@ -7,5 +7,5 @@ Grub Manager PT-BR
 
 # Instalação
 ```bash
-curl -fsSL "https://raw.githubusercontent.com/corocotoco22-cmyk/GRMG/refs/heads/main/install.sh" | bash
+bash <(curl -fsSL "https://raw.githubusercontent.com/corocotoco22-cmyk/GRMG/refs/heads/main/install.sh")
 ```
